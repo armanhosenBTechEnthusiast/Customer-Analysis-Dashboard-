@@ -75,8 +75,7 @@ This dashboard converts raw customer data into actionable business intelligence 
 ---
 
 # 📂 Project Files
-✅ **Excel Dataset (.xlsx)** – 
-✅ **Tableau Dashboard (.twbx)** –  
+✅ **Tableau Dashboard (.twbx)** –  https://github.com/armanhosenBTechEnthusiast/Customer-Analysis-Dashboard-/blob/main/Sale%20Analysis%20Using%20Tableau.twb
 ✅ **Dashboard Screenshot (.png)** – 
 
 ---
